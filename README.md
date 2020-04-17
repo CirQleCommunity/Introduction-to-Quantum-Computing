@@ -1,5 +1,5 @@
 # Introduction to Quantum Computing
-<a href="https://colab.research.google.com/drive/1K_wlBt9DcSrSfKuFiFbs_l6H1CLeAxru" target="_blank" rel="noopener noreferrer">Introduction to Qiskit</a>)
+<a href="https://colab.research.google.com/drive/1K_wlBt9DcSrSfKuFiFbs_l6H1CLeAxru" target="_blank" rel="noopener noreferrer">Introduction to Qiskit</a>
 
 <a href="https://colab.research.google.com/drive/1J-IaNEyFep5q95zgOTjR-fi1j9KyIpF7" target="_blank" rel="noopener noreferrer">Executing quantum circuits in IBM servers</a>
 
